@@ -32,4 +32,4 @@
 // off-the-shelf attacks will typically only target the TLS key.
 //
 // There is currently no mechanism to rotate the ed25519 keys.
-package edtls
+package edtls // import "bazil.org/bazil/util/edtls"

@@ -1,4 +1,4 @@
-package set
+package set // import "bazil.org/bazil/cli/peer/location/set"
 
 import (
 	clibazil "bazil.org/bazil/cli"

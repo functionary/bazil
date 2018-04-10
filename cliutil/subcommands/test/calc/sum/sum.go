@@ -1,4 +1,4 @@
-package sum
+package sum // import "bazil.org/bazil/cliutil/subcommands/test/calc/sum"
 
 import (
 	"flag"

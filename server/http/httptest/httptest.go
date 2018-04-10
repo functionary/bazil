@@ -1,4 +1,4 @@
-package httptest
+package httptest // import "bazil.org/bazil/server/http/httptest"
 
 import (
 	"net"

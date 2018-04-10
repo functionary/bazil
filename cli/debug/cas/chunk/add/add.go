@@ -1,4 +1,4 @@
-package add
+package add // import "bazil.org/bazil/cli/debug/cas/chunk/add"
 
 import (
 	"bytes"

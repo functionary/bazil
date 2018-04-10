@@ -1,4 +1,4 @@
-package run
+package run // import "bazil.org/bazil/cli/server/run"
 
 import (
 	"flag"

@@ -1,4 +1,4 @@
-package grpcunix
+package grpcunix // import "bazil.org/bazil/util/grpcunix"
 
 import (
 	"net"

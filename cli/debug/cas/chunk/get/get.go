@@ -1,4 +1,4 @@
-package get
+package get // import "bazil.org/bazil/cli/debug/cas/chunk/get"
 
 import (
 	"os"

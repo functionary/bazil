@@ -1,4 +1,4 @@
-package snap
+package snap // import "bazil.org/bazil/fs/snap"
 
 import (
 	"fmt"

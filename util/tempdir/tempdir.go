@@ -1,4 +1,4 @@
-package tempdir
+package tempdir // import "bazil.org/bazil/util/tempdir"
 
 import (
 	"io/ioutil"

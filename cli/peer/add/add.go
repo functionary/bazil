@@ -1,4 +1,4 @@
-package add
+package add // import "bazil.org/bazil/cli/peer/add"
 
 import (
 	clibazil "bazil.org/bazil/cli"

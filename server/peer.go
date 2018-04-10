@@ -1,4 +1,4 @@
-package server
+package server // import "bazil.org/bazil/server"
 
 import (
 	"io"

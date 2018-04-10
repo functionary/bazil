@@ -1,4 +1,4 @@
-package grpcedtls
+package grpcedtls // import "bazil.org/bazil/util/grpcedtls"
 
 import (
 	"crypto/tls"

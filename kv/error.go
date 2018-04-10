@@ -1,4 +1,4 @@
-package kv
+package kv // import "bazil.org/bazil/kv"
 
 import (
 	"fmt"

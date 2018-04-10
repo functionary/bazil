@@ -1,4 +1,4 @@
-package add
+package add // import "bazil.org/bazil/cli/sharing/add"
 
 import (
 	"errors"

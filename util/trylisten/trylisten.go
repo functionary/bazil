@@ -1,4 +1,4 @@
-package trylisten
+package trylisten // import "bazil.org/bazil/util/trylisten"
 
 import (
 	"net"

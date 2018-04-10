@@ -1,4 +1,4 @@
-package inodes
+package inodes // import "bazil.org/bazil/fs/inodes"
 
 import (
 	"bazil.org/fuse/fs"

@@ -1,4 +1,4 @@
-package kvfiles
+package kvfiles // import "bazil.org/bazil/kv/kvfiles"
 
 import (
 	"encoding/hex"

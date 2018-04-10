@@ -5,7 +5,7 @@
 // that gives less control over details, but works better when the
 // type of the variable is not necessarily known, such as in
 // libraries.
-package strconvx
+package strconvx // import "bazil.org/bazil/cliutil/strconvx"
 
 import (
 	"fmt"

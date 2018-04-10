@@ -1,4 +1,4 @@
-package connect
+package connect // import "bazil.org/bazil/cli/volume/connect"
 
 import (
 	"flag"

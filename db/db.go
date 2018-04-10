@@ -1,5 +1,5 @@
 // Package db contains a database abstraction layer.
-package db
+package db // import "bazil.org/bazil/db"
 
 import (
 	"os"

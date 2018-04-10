@@ -1,4 +1,4 @@
-package sync
+package sync // import "bazil.org/bazil/cli/volume/sync"
 
 import (
 	clibazil "bazil.org/bazil/cli"

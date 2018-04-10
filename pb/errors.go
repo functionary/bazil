@@ -1,4 +1,4 @@
-package pb
+package pb // import "bazil.org/bazil/pb"
 
 import "errors"
 

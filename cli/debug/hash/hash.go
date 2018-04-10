@@ -1,4 +1,4 @@
-package hash
+package hash // import "bazil.org/bazil/cli/debug/hash"
 
 import (
 	"bytes"

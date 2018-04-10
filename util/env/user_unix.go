@@ -1,6 +1,6 @@
 // +build darwin freebsd linux netbsd openbsd
 
-package env
+package env // import "bazil.org/bazil/util/env"
 
 import (
 	"syscall"

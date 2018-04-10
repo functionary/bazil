@@ -1,4 +1,4 @@
-package pubkey
+package pubkey // import "bazil.org/bazil/cli/pubkey"
 
 import (
 	"os"

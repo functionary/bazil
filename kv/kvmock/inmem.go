@@ -1,4 +1,4 @@
-package kvmock
+package kvmock // import "bazil.org/bazil/kv/kvmock"
 
 import (
 	"bazil.org/bazil/kv"

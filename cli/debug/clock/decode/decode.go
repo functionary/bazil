@@ -1,4 +1,4 @@
-package decode
+package decode // import "bazil.org/bazil/cli/debug/clock/decode"
 
 import (
 	"bytes"

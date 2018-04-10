@@ -1,4 +1,4 @@
-package calc
+package calc // import "bazil.org/bazil/cliutil/subcommands/test/calc"
 
 import (
 	"flag"

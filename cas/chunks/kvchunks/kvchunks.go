@@ -1,4 +1,4 @@
-package kvchunks
+package kvchunks // import "bazil.org/bazil/cas/chunks/kvchunks"
 
 // TODO maybe move this into chunks -- but then chunkutil needs to
 // merge there, too, to avoid an import cycle

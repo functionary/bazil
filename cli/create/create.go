@@ -1,4 +1,4 @@
-package create
+package create // import "bazil.org/bazil/cli/create"
 
 import (
 	clibazil "bazil.org/bazil/cli"

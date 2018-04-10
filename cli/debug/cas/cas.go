@@ -1,4 +1,4 @@
-package cas
+package cas // import "bazil.org/bazil/cli/debug/cas"
 
 import (
 	"flag"

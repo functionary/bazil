@@ -1,4 +1,4 @@
-package kvpeer
+package kvpeer // import "bazil.org/bazil/kv/kvpeer"
 
 import (
 	"io"

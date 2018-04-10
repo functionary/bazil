@@ -11,4 +11,4 @@
 // BUG(tv) multiple use leaves state around -> not currently useful
 // for more than command line parsing. maybe should instantiate new
 // command values, instead of using the registered ones?
-package subcommands
+package subcommands // import "bazil.org/bazil/cliutil/subcommands"

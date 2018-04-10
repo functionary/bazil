@@ -1,4 +1,4 @@
-package cli
+package cli // import "bazil.org/bazil/cli"
 
 import (
 	"flag"

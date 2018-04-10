@@ -1,4 +1,4 @@
-package untrusted
+package untrusted // import "bazil.org/bazil/kv/untrusted"
 
 import (
 	"fmt"

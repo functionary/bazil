@@ -1,4 +1,4 @@
-package allow
+package allow // import "bazil.org/bazil/cli/peer/storage/allow"
 
 import (
 	clibazil "bazil.org/bazil/cli"

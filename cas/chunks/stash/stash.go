@@ -1,4 +1,4 @@
-package stash
+package stash // import "bazil.org/bazil/cas/chunks/stash"
 
 import (
 	"bazil.org/bazil/cas"

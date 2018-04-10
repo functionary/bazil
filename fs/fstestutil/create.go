@@ -1,4 +1,4 @@
-package fstestutil
+package fstestutil // import "bazil.org/bazil/fs/fstestutil"
 
 import (
 	"io/ioutil"

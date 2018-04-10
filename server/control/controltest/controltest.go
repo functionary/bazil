@@ -1,4 +1,4 @@
-package controltest
+package controltest // import "bazil.org/bazil/server/control/controltest"
 
 import (
 	"sync"

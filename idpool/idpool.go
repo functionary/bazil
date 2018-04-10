@@ -1,4 +1,4 @@
-package idpool
+package idpool // import "bazil.org/bazil/idpool"
 
 // Pool keeps track of uint64 identifiers.
 //

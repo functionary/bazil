@@ -1,4 +1,4 @@
-package mount
+package mount // import "bazil.org/bazil/cli/volume/mount"
 
 import (
 	clibazil "bazil.org/bazil/cli"

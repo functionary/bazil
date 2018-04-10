@@ -1,4 +1,4 @@
-package version
+package version // import "bazil.org/bazil/cli/version"
 
 import (
 	"fmt"

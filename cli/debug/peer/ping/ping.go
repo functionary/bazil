@@ -1,4 +1,4 @@
-package ping
+package ping // import "bazil.org/bazil/cli/debug/peer/ping"
 
 import (
 	"fmt"

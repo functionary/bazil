@@ -1,4 +1,4 @@
-package kvmulti
+package kvmulti // import "bazil.org/bazil/kv/kvmulti"
 
 import (
 	"errors"

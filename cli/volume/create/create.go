@@ -1,4 +1,4 @@
-package create
+package create // import "bazil.org/bazil/cli/volume/create"
 
 import (
 	"flag"

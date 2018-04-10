@@ -1,4 +1,4 @@
-package ping
+package ping // import "bazil.org/bazil/cli/server/ping"
 
 import (
 	clibazil "bazil.org/bazil/cli"
