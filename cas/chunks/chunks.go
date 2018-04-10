@@ -1,5 +1,5 @@
 // Package chunks implements low-level storage for chunks of data.
-package chunks
+package chunks // import "bazil.org/bazil/cas/chunks"
 
 import (
 	"fmt"

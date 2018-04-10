@@ -1,4 +1,4 @@
-package blobs
+package blobs // import "bazil.org/bazil/cas/blobs"
 
 import (
 	"errors"
